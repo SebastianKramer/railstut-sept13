@@ -1,0 +1,33 @@
+*.rbc
+*.sassc
+.sass-cache
+
+capybara-*.html
+.rspec
+.rvmrc
+
+/.bundle
+/vendor/bundle
+
+# ignore all logfiles and tempfiles
+/log/*
+/tmp/*
+
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+.project
+config/initializers/secret_token.rb
+
+# Ignore other unneeded files.
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
